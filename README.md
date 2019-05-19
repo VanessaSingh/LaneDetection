@@ -8,4 +8,5 @@ This project aims to dected lane lines in a video or image of a road
 
 ## Sample output:
 A single frame's detected lanes:
-![altimage](./sample images/107.jpg)
+
+![altimage](./sample\ images/107.jpg)
