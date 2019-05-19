@@ -7,6 +7,6 @@ This project aims to dected lane lines in a video or image of a road
 - [/sample images/](https://github.com/VanessaSingh/LaneDetection/blob/master/fold.zip): is a folder with the output images
 
 ## Sample output:
-
+A single frame's detected lanes:
 
 ![altimage](sample images/107.jpg)
